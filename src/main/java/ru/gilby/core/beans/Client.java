@@ -1,3 +1,5 @@
+package ru.gilby.core.beans;
+
 public class Client {
 
     private String id;
